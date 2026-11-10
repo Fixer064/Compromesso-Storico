@@ -3,7 +3,7 @@
 
 Progetto universitario di Digital Humanities e Patrimonio Culturale sul Web (*Alma Mater Studiorum - Università di Bologna*).
 
-🔗 **Sito Web (GitHub Pages):** [Applica qui il tuo link github.io]
+🔗 https://fixer064.github.io/Compromesso-Storico/
 
 ---
 
